@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1300745048 source:c:\users\warse\desktop\zfraction\main.cpp
+	<iostream>
+	"ZFraction.h"
+
+1300654778 c:\users\warse\desktop\zfraction\zfraction.h
+	<iostream>
+
+1300745542 source:c:\users\warse\desktop\zfraction\zfraction.cpp
+	"ZFraction.h"
+	<cstdlib>
+
